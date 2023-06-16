@@ -10,3 +10,4 @@ Foto kapanlar, arazi koşullarında güvenliği sağlamak, yaban hayatını göz
 ## Veri Seti
 Veri seti oluşturulurken Tarım ve Orman Bakanlığı tarafından paylaşılan foto kapan görüntüleri, Kaggle ve Roboflow platformlarından alınan veri setleri kullanılmıştır. Veri setinin toplanması, ön işleme işlemlerinin yapılması ve model eğitimi için Roboflow platformu kullanılmıştır.
 ## Performans Karşılaştırmaları
+![tablo](https://github.com/Zeynep-gul/Animal-Detection-with-YOLOv8/assets/56768123/a73bedcb-23ba-4517-bc4a-08df061c6a28)
